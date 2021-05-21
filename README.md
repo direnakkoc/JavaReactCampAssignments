@@ -1,7 +1,7 @@
 <h3 align="center">Java+React Software Developer Training Camp</h3>
 <p align="center">
-  <a href="https://github.com/direnakkocdemir/gameProject/blob/main/assets/image.png">
-    <img src="https://github.com/direnakkocdemir/gameProject/blob/main/assets/image.png" alt="Logo">
+  <a href="https://github.com/direnakkocdemir/JavaReactCampAssignments/blob/main/gameProject/assets/image.png">
+    <img src="https://github.com/direnakkocdemir/JavaReactCampAssignments/blob/main/gameProject/assets/image.png" alt="Logo">
   </a>
 
 </p>
