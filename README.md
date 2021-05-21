@@ -8,4 +8,4 @@
 
 ## About the Homework
 
-Basically, I covered all the requirements that were wanted by Engin Demirog in each assignments.
+Basically, I covered all the requirements that were wanted by Engin Demirog in each assignment.
