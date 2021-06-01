@@ -3,8 +3,7 @@ package eCommerce.core;
 import java.util.regex.Pattern;
 
 public class EmailVerification {
-	private static final String EMAIL_PATTERN = "^[A-Z0-9._%+-]+@[A-Z0-9.-]+.(com|org|net|edu|gov|mil|biz|info|mobi)(.[A-Z]{2})?$";// Regex
-																																	// design
+	private static final String EMAIL_PATTERN = "^[a-z0-9._%+-]+@[a-z0-9.-]+.(com|org|net|edu|gov|mil|biz|info|mobi)(.[a-z]{2})?$";// Regex design
 
 	public static boolean isEmailValid(String email) {
 
